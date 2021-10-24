@@ -1,2 +1,2 @@
-# ireact
-This is iReact
+# Welcome to ireact
+Mate! This is iReact.
