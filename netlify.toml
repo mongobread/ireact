@@ -1,6 +1,6 @@
 [build]	
 # build output directory 
-publish = "dist/"
+publish = "/"
 
 # build command
 command = "yarn build"
