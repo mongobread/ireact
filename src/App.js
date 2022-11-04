@@ -21,8 +21,6 @@ function App() {
         </a>
       </header>
 
-
-
       <TawkMessengerReact
         propertyId="5ef856c14a7c6258179b7a56"
         widgetId="1fk70kqv5"
