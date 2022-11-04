@@ -1,0 +1,8 @@
+[build]	
+# build output directory 
+publish = "/"
+
+# build command
+command = "yarn build"
+build = "build"
+base = "/"
